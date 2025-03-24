@@ -1,0 +1,1 @@
+# To make sense of this repo read files named "task{n}.md" images in this repo are used directly in the md files don't see each image individually, one can also directly look at query folder where comments are sparse and it's just query maxing
