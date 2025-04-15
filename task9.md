@@ -28,7 +28,7 @@ $$ LANGUAGE plpgsql;
 ```
 
 
-Calling the procedure
+Calling the procedure ( I checked it is working by looking at the resume table)
 ```sql
 CALL theme_data2('Professional');
 ```
@@ -38,3 +38,5 @@ Calling the function
 ```sql
 SELECT * FROM theme_function('Professional');
 ```
+
+![alt text](image-26.png)
